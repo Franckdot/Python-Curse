@@ -32,3 +32,7 @@ Then, open [Colab](https://colab.research.google.com/), and export the notebooks
 | if            | Lesson 5      |
 | for           | Lesson 6      |
 | Examples      | Lesson 4      |
+| Data colection| some lessons  |
+| In / outputs  | Some Lessons  |
+| P. Functional | Some Lessons  |
+| Manage errors | Some Lessons  |
